@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-farhan-hasin-dipro.web.app/](https://portfolio-farhan-hasin-dipro.web.app/)
 
-- 💬 Ask me about **design practices, responsive layouts, CSS Frameworks, Javascript, and ReactJS. Art and Music.**
+- 💬 Ask me about **design practices, responsive layouts, CSS Frameworks, Javascript, ReactJS, Art, and Music.**
 
 - 📫 How to reach me **farhan.hasin.25@gmail.com**
 
