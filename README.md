@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Farhan Hasin Dipro 👋</h1>
-<h3 align="center">I am a fresh Computer Science and Engineering graduate looking forward to gathering a fruitful experience as a full-stack web developer as I continue learning and growing with the rapidly updating technology stacks to work with.</h3>
+<h3 align="center">I am a Software Engineer with 2 years industry experience looking forward to gathering more fruitful experiences as I continue learning and growing with the rapidly updating technology stacks to work with.</h3>
 
 - 🌱 I’m currently learning **Material UI, Typescript, NextJS, Redux, and GraphQL.**
 
