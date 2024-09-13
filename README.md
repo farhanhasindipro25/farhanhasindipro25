@@ -106,8 +106,6 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ![Adobe Premiere Pro](https://img.shields.io/badge/adobepremierepro-%239999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=%239999FF&color=%239999FF)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
 
-![snake gif](https://github.com/farhanhasindipro25/farhanhasindipro25/blob/output/github-contribution-grid-snake.gif)
-
 \
 &nbsp;
   
