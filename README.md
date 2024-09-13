@@ -10,9 +10,8 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 
 ### Checkout my Engineering Timeline: (https://tinyurl.com/473vcc79)
 
-### Socials:
-[![LinkedIn](https://www.linkedin.com/in/farhan-hasin-dipro/) ](https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffarhan-hasin-dipro%2F
-)
+### Find me on Linkedin:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-hasin-dipro/)
 
 # 💻 Tech Stack
 
