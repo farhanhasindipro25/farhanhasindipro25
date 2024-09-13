@@ -1,10 +1,6 @@
-# Hello World, Welcome to my Avant Garde!👋
+# Hello there, I am Farhan Hasin Dipro!👋
 
-I am Farhan Hasin Dipro, a Software Engineer with over 2.5+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
-
-
-### Checkout my Engineering Timeline: (https://tinyurl.com/473vcc79)
-
+I am a Software Engineer with over 2.5+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
 - 🔭 I’m currently enjoying the full stack process
 - 👯 I’m currently striving to bring my dream project to life
 - 🚀 I’m looking forward to make the most perfect day in the life of a software engineer video.
@@ -12,9 +8,11 @@ I am Farhan Hasin Dipro, a Software Engineer with over 2.5+ years of experience 
 - 💬 Ask me about anything Product Development
 - ⚡ Fun fact: I need to save enough money to buy myself a new creamy sounding mechanical keyboard! 
 
+### Checkout my Engineering Timeline: (https://tinyurl.com/473vcc79)
 
 ### Socials:
-![LinkedIn](https://www.linkedin.com/in/farhan-hasin-dipro/) 
+[![LinkedIn](https://www.linkedin.com/in/farhan-hasin-dipro/) ](https://img.shields.io/badge/linkedin-%230A66C2?logo=linkedin&labelColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffarhan-hasin-dipro%2F
+)
 
 # 💻 Tech Stack
 
