@@ -1,16 +1,20 @@
-# 💫 About Me
 # Hello World, Welcome to my Avant Garde!👋
-## I am Farhan Hasin Dipro!
 
-### I am a Software Engineer with over 2.5+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
+I am Farhan Hasin Dipro, a Software Engineer with over 2.5+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
 \
 &nbsp;
-# Checkout my Engineering Timeline: (https://dispatch-theta.vercel.app/public/jh7fwcw237t0azj2smdhjnrshs6n81s3?fbclid=IwAR22IKLMLC8zhFnf4coFmf0XBrp-5iztROnJRROJBY905-ZIef_BT0tOFTg)
-🔭 I’m currently enjoying the full stack process<br>👯 I’m currently striving to bring my dream project to life<br>🚀 I’m looking forward to make the most perfect day in the life of a software engineer video.<br>🌱 I’m currently learning Redis, Docker, System Design, Advanced Database concepts etc.<br>💬 Ask me about anything Product Development<br>⚡ Fun fact: I need to save enough money to buy myself a new creamy sounding mechanical keyboard! 
+**Checkout my Engineering Timeline: (https://tinyurl.com/473vcc79)**
+
+- 🔭 I’m currently enjoying the full stack process
+- 👯 I’m currently striving to bring my dream project to life
+- 🚀 I’m looking forward to make the most perfect day in the life of a software engineer video.
+- 🌱 I’m currently learning Redis, Docker, System Design, Advanced Database concepts etc.
+- 💬 Ask me about anything Product Development
+- ⚡ Fun fact: I need to save enough money to buy myself a new creamy sounding mechanical keyboard! 
 
 
 ### Socials:
-[![LinkedIn](https://www.linkedin.com/in/farhan-hasin-dipro/) 
+![LinkedIn](https://www.linkedin.com/in/farhan-hasin-dipro/) 
 
 # 💻 Tech Stack
 
