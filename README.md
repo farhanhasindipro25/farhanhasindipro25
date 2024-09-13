@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=ImranSefat&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # Hello there, I am Farhan Hasin Dipro!👋
 
 I am a Software Engineer with over 2.5+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
@@ -37,7 +39,7 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS]([https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express&labelColor=black&color=black))
+![ExpressJS](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&labelColor=%23000000&color=%23000000)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### State Management
@@ -102,8 +104,6 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=%2331A8FF)
 ![Adobe Premiere Pro](https://img.shields.io/badge/adobepremierepro-%239999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=%239999FF&color=%239999FF)
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
-
-[![](https://visitcount.itsvg.in/api?id=ImranSefat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 \
 &nbsp;
