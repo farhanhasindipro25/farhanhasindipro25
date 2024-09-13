@@ -1,9 +1,9 @@
 # Hello World, Welcome to my Avant Garde!👋
 
 I am Farhan Hasin Dipro, a Software Engineer with over 2.5+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
-\
-&nbsp;
-**Checkout my Engineering Timeline: (https://tinyurl.com/473vcc79)**
+
+
+### Checkout my Engineering Timeline: (https://tinyurl.com/473vcc79)
 
 - 🔭 I’m currently enjoying the full stack process
 - 👯 I’m currently striving to bring my dream project to life
