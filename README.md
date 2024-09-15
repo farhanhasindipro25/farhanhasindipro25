@@ -18,9 +18,6 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm%26fs%3D1%26to%3Dfarhan.hasin.25%40gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffarhan-hasin-dipro%2F)
 [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https%3A%2F%2Fdiscordapp.com%2Fusers%2Falkalinefoster_62506)
-<a href="https://wa.me/+8801627152820" target="_blank">
-  <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-</a>
 
 # 🧱 Tech Stack
 
