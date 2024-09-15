@@ -32,7 +32,7 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HeadlessUI](https://img.shields.io/badge/HeadlessUI-%2366E3FF.svg?style=for-the-badge&logo=headlessui&logoColor=white)
+![HeadlessUI](https://img.shields.io/badge/HeadlessUI-%2366E3FF.svg?style=for-the-badge&logo=headlessui&logoColor=black)
 ![ShadCNUI](https://img.shields.io/badge/ShadCNUI-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Swiper](https://img.shields.io/badge/swiper-%236332F6.svg?style=for-the-badge&logo=swiper&logoColor=white)
 ![MantineUI](https://img.shields.io/badge/MantineUI-%23339AF0.svg?style=for-the-badge&logo=mantine&logoColor=white)
@@ -47,8 +47,8 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### State Management
-![MOBX](https://img.shields.io/badge/mobx-%23FF9955?style=for-the-badge&logo=mobx&logoColor=white&labelColor=%23FF9955&color=%23FF9955)
-![Redux](https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=%23764ABC&color=%23764ABC)
+![MOBX](https://img.shields.io/badge/mobx-%23FF9955.svg?style=for-the-badge&logo=mobx&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -56,26 +56,26 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ORM
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=%23880000&color=%23880000)
-![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=%232D3748&color=%232D3748)
+![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Utilities
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=white&labelColor=%232C8EBB&color=%232C8EBB)
-![dotenv](https://img.shields.io/badge/.env-%23ECD53F?style=for-the-badge&logo=dotenv&logoColor=white&labelColor=%23ECD53F&color=%23ECD53F)
+![YARN](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![dotenv](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white)
 ![cors](https://img.shields.io/badge/cors-white?style=for-the-badge&logo=cors&logoColor=white&labelColor=white&color=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-white?style=for-the-badge&logo=bcrypt&logoColor=white&labelColor=white&color=white)
 ![dayjs](https://img.shields.io/badge/dayjs-white?style=for-the-badge&logo=dayjs&logoColor=white&labelColor=white&color=white)
-![Formik](https://img.shields.io/badge/formik-%232563EB?style=for-the-badge&logo=formik&logoColor=white&labelColor=%232563EB&color=%232563EB)
-![Axios](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=%235A29E4&color=%235A29E4)
-![ReactQuery](https://img.shields.io/badge/reactquery-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=white&labelColor=%23FF4154&color=%23FF4154)
-![ReactRouter](https://img.shields.io/badge/reactrouter-%23CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&labelColor=%23CA4245&color=%23CA4245)
-![ReactHookForm](https://img.shields.io/badge/reacthookform-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&labelColor=%23EC5990&color=%23EC5990)
-![YUP](https://img.shields.io/badge/yup-%23000000?style=for-the-badge&logo=yup&logoColor=white&labelColor=%23000000&color=%23000000)
-![ZOD](https://img.shields.io/badge/zod-%233E67B1?style=for-the-badge&logo=zod&logoColor=white&labelColor=%233E67B1&color=%233E67B1)
-![Twilio](https://img.shields.io/badge/twilio-%23F22F46?style=for-the-badge&logo=twilio&logoColor=white&labelColor=%23F22F46&color=%23F22F46)
-![Stripe](https://img.shields.io/badge/stripe-%23008CDD?style=for-the-badge&logo=stripe&logoColor=white&labelColor=%23008CDD&color=%23008CDD)
+![Formik](https://img.shields.io/badge/formik-%232563EB.svg?style=for-the-badge&logo=formik&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/reactquery-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![ReactRouter](https://img.shields.io/badge/reactrouter-%23CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![ReactHookForm](https://img.shields.io/badge/reacthookform-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![YUP](https://img.shields.io/badge/yup-%23000000.svg?style=for-the-badge&logo=yup&logoColor=white)
+![ZOD](https://img.shields.io/badge/zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Twilio](https://img.shields.io/badge/twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-%23008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![Winston](https://img.shields.io/badge/winston-black?style=for-the-badge&logo=winston&logoColor=white&labelColor=black&color=black)
 ![Multer](https://img.shields.io/badge/multer-white?style=for-the-badge&logo=multer&logoColor=white&labelColor=white&color=white)
 
@@ -86,7 +86,7 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### Version Control
-![Github](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)
+![Github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Husky](https://img.shields.io/badge/husky-black?style=for-the-badge&logo=husky&logoColor=white&labelColor=black&color=black)
 
 ### Documentation
@@ -95,19 +95,19 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Docmost](https://img.shields.io/badge/docmost-black?style=for-the-badge&logo=docmost&logoColor=white&labelColor=black&color=black)
-![Docusaurus](https://img.shields.io/badge/docusaurus-%233ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white&labelColor=%233ECC5F&color=%233ECC5F)
+![Docusaurus](https://img.shields.io/badge/docusaurus-%233ECC5F.svg?style=for-the-badge&logo=docusaurus&logoColor=white)
 
 ### Platforms
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Clickup](https://img.shields.io/badge/clickup-%237B68EE?style=for-the-badge&logo=clickup&logoColor=white&labelColor=%237B68EE&color=%237B68EE)
-![Slack](https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=%234A154B&color=%234A154B)
-![Discord](https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2)
+![Clickup](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Tools
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=%23FF9A00&color=%23FF9A00)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=%2331A8FF&color=%2331A8FF)
-![Adobe Premiere Pro](https://img.shields.io/badge/adobepremierepro-%239999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=%239999FF&color=%239999FF)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC&color=%2300C4CC)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/adobepremierepro-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 \
 &nbsp;
