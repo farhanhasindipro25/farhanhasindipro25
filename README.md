@@ -24,18 +24,18 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### UI
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=%237952B3&color=%237952B3)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HeadlessUI](https://img.shields.io/badge/HeadlessUI-%2366E3FF?style=for-the-badge&logo=headlessui&logoColor=white&labelColor=%2366E3FF&color=%2366E3FF)
-![ShadCNUI](https://img.shields.io/badge/ShadCNUI-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=%23000000&color=%23000000)
-![Swiper](https://img.shields.io/badge/swiper-%236332F6?style=for-the-badge&logo=swiper&logoColor=white&labelColor=%236332F6&color=%236332F6)
-![MantineUI](https://img.shields.io/badge/MantineUI-%23339AF0?style=for-the-badge&logo=mantine&logoColor=white&labelColor=%23339AF0&color=%23339AF0)
+![HeadlessUI](https://img.shields.io/badge/HeadlessUI-%2366E3FF.svg?style=for-the-badge&logo=headlessui&logoColor=white)
+![ShadCNUI](https://img.shields.io/badge/ShadCNUI-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Swiper](https://img.shields.io/badge/swiper-%236332F6.svg?style=for-the-badge&logo=swiper&logoColor=white)
+![MantineUI](https://img.shields.io/badge/MantineUI-%23339AF0.svg?style=for-the-badge&logo=mantine&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
