@@ -11,7 +11,8 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 - ⚡ Fun fact: I need to save enough money to buy myself a new creamy sounding mechanical keyboard! 
 
 ### Checkout my Engineering Timeline: 
-![Dispatch](https://img.shields.io/badge/dispatch-black?style=for-the-badge&logo=dispatch&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fdispatch-theta.vercel.app%2Fpublic%2Fjh7fwcw237t0azj2smdhjnrshs6n81s3%3Ffbclid%3DIwAR22IKLMLC8zhFnf4coFmf0XBrp-5iztROnJRROJBY905-ZIef_BT0tOFTg)
+![Dispatch](https://img.shields.io/badge/THE%20ENGINEERING%20TIMELINE-white?style=for-the-badge&label=DISPATCH&labelColor=black&color=white&link=https%3A%2F%2Fdispatch-theta.vercel.app%2Fpublic%2Fjh7fwcw237t0azj2smdhjnrshs6n81s3%3Ffbclid%3DIwAR22IKLMLC8zhFnf4coFmf0XBrp-5iztROnJRROJBY905-ZIef_BT0tOFTg)
+
 
 ### Find me on Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-hasin-dipro/)
