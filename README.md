@@ -3,14 +3,14 @@
 # Hello there, I am Farhan Hasin Dipro!👋
 
 I am a Software Engineer with over 2.5+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
-- 🔭 I’m currently enjoying the full stack process
-- 👯 I’m currently striving to bring my dream project to life
-- 🚀 I’m looking forward to make the most perfect day in the life of a software engineer video.
+- 💥 I’m currently enjoying the full stack process.
+- 🚀 I’m currently striving to bring my dream project to life.
+- 🎥 I’m looking forward to make the most perfect day in the life of a software engineer video.
 - 🌱 I’m currently learning Redis, Docker, System Design, Advanced Database concepts etc.
-- 💬 Ask me about anything Product Development
+- 💬 Ask me about anything Product Development.
 - ⚡ Fun fact: I need to save enough money to buy myself a new creamy sounding mechanical keyboard! 
 
-### Checkout my Engineering Timeline: 
+# 📈 Checkout my Engineering Timeline: 
 [![Dispatch](https://img.shields.io/badge/THE%20ENGINEERING%20TIMELINE-white?style=for-the-badge&label=DISPATCH&labelColor=black&color=white)](https://dispatch-theta.vercel.app/public/jh7fwcw237t0azj2smdhjnrshs6n81s3?fbclid=IwAR22IKLMLC8zhFnf4coFmf0XBrp-5iztROnJRROJBY905-ZIef_BT0tOFTg)
 
 # 🌐 On The Web:
@@ -19,7 +19,7 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffarhan-hasin-dipro%2F)
 [![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https%3A%2F%2Fdiscordapp.com%2Fusers%2Falkalinefoster_62506)
 
-# 💻 Tech Stack
+# 🧱 Tech Stack
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
