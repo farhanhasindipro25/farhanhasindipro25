@@ -21,18 +21,6 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 <a href="https://wa.me/+8801627152820" target="_blank">
   <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
 </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=farhan.hasin.25@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/farhan-hasin-dipro/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://discordapp.com/users/alkalinefoster_62506" target="_blank">
-  <img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://dispatch-theta.vercel.app/public/jh7fwcw237t0azj2smdhjnrshs6n81s3?fbclid=IwAR22IKLMLC8zhFnf4coFmf0XBrp-5iztROnJRROJBY905-ZIef_BT0tOFTg" target="_blank">
-  <img src="https://img.shields.io/badge/THE%20ENGINEERING%20TIMELINE-white?style=for-the-badge&label=DISPATCH&labelColor=black&color=white" alt="Dispatch"/>
-</a>
 
 # 🧱 Tech Stack
 
