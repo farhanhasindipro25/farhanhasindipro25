@@ -58,6 +58,7 @@ I am a Software Engineer with over 2.5+ years of experience currently working @ 
 ### ORM
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![KnexJS](https://img.shields.io/badge/knexjs-%D26B38.svg?style=for-the-badge&logo=knexdotjs&logoColor=white)
 
 ### Utilities
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
