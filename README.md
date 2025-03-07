@@ -2,7 +2,7 @@
 
 # Hello there, I am Farhan Hasin Dipro!👋
 
-I am a Software Engineer with over 2.5+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
+I am a Software Engineer with over 3+ years of experience currently working @ Manush Technologies. I am always looking forward to driving growth with heart as an end-to-end UX focused Product Engineer, as I work on high-end SaaS applications. 
 - 💥 I’m currently enjoying the full stack process.
 - 🚀 I’m currently striving to bring my dream project to life.
 - 🎥 I’m looking forward to make the most perfect day in the life of a software engineer video.
